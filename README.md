@@ -2,15 +2,14 @@
 
 # llljjjwww333
 
-**AI tooling · Codex workflows · practical developer automation**<br>
-做实用的 AI 开发者工具，把复杂项目整理成更容易理解、验证和交接的形态。
+**AI agents · financial products · developer tooling**<br>
+关注 AI Agent、金融科技、开发者工具和可落地的全栈产品原型。
 
 <p>
   <a href="https://github.com/llljjjwww333"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-llljjjwww333-111827?style=flat-square&logo=github"></a>
-  <a href="https://github.com/llljjjwww333/ai-context-pack"><img alt="AI Context Pack" src="https://img.shields.io/badge/project-ai--context--pack-0f766e?style=flat-square"></a>
-  <img alt="Focus" src="https://img.shields.io/badge/focus-AI%20tools%20%2F%20developer%20workflow-2563eb?style=flat-square">
-  <img alt="Workspace" src="https://img.shields.io/badge/workspace-Windows%20%2B%20CLI-334155?style=flat-square">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=llljjjwww333&style=flat-square&color=0f766e">
+  <a href="https://github.com/llljjjwww333/StockDashboard"><img alt="Finance" src="https://img.shields.io/badge/focus-finance%20%2B%20AI-0f766e?style=flat-square"></a>
+  <a href="https://github.com/llljjjwww333/openclaw"><img alt="OpenClaw" src="https://img.shields.io/badge/agent%20ecosystem-OpenClaw-2563eb?style=flat-square"></a>
+  <a href="https://github.com/llljjjwww333/ai-context-pack"><img alt="AI Context Pack" src="https://img.shields.io/badge/tool-ai--context--pack-334155?style=flat-square"></a>
 </p>
 
 [![trophy](https://trophygithubreadmelang.cybee.dpdns.org/?username=llljjjwww333&theme=onedark&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
@@ -19,82 +18,60 @@
 
 ---
 
-## Current Direction
+## Focus
 
-I build small, practical tools that make development work easier to understand, verify, and hand off.
-
-| Area | What I care about |
+| Direction | What I am building or following |
 | --- | --- |
-| AI developer tools | Context engineering, Codex-ready repositories, agent handoff prompts |
-| Automation | CLI utilities, repeatable checks, clean local workflows |
-| Open source | Useful projects with clear docs and low setup cost |
-| Engineering style | Practical, testable, maintainable, not overbuilt |
+| AI agents | OpenClaw, Codex, OpenClaudeScience, local agent prototypes, tool calling, repo-aware workflows |
+| Finance | Real-time market dashboards, stock/news context, AI-assisted financial analysis, crypto risk-state learning |
+| Developer tools | Codex-ready repository onboarding, `AGENTS.md`, context packs, readiness checks, handoff prompts |
+| Full-stack products | FastAPI + React systems, WebSocket data flows, Docker-ready services, practical demos |
 
-## Featured Work
+## Projects I Participate In
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3><a href="https://github.com/llljjjwww333/ai-context-pack">AI Context Pack</a></h3>
-      <p>Generate Codex-ready <code>AGENTS.md</code>, AI context reports, handoff prompts, and readiness checks for repositories.</p>
-      <p>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
-        <img alt="CLI" src="https://img.shields.io/badge/CLI-111827?style=flat-square">
-        <img alt="Codex" src="https://img.shields.io/badge/Codex-ready-0f766e?style=flat-square">
-      </p>
-    </td>
-    <td width="50%">
-      <h3>Codex contribution workflow</h3>
-      <p>Issue-driven fixes, forked repo work, patch handoffs, and changes that stay small enough to review.</p>
-      <p>
-        <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white">
-        <img alt="GitHub" src="https://img.shields.io/badge/GitHub-workflow-181717?style=flat-square&logo=github">
-        <img alt="Testing" src="https://img.shields.io/badge/validation-first-2563eb?style=flat-square">
-      </p>
-    </td>
-  </tr>
-</table>
+| Project | Role / interest |
+| --- | --- |
+| [OpenClaw](https://github.com/llljjjwww333/openclaw) | Following and experimenting with a personal AI assistant ecosystem; also building skill-level ideas around practical agent workflows. |
+| [Codex](https://github.com/llljjjwww333/codex) | Working with the coding-agent workflow directly, including small issue-driven fixes and repository handoff patterns. |
+| [OpenClaudeScience](https://github.com/llljjjwww333/OpenClaudeScience) | Tracking open-source AI research/product experiences and how agent-style scientific workflows can be packaged. |
+| [future-agi](https://github.com/llljjjwww333/future-agi), [LangGraph](https://github.com/llljjjwww333/langgraph), [MLflow](https://github.com/llljjjwww333/mlflow) | Studying evaluation, tracing, agent orchestration, and AI engineering infrastructure. |
+
+## Own Projects
+
+| Repository | Why it matters |
+| --- | --- |
+| [StockDashboard](https://github.com/llljjjwww333/StockDashboard) | Real-time stock dashboard for US/CN markets with FastAPI, React, TypeScript, Redis, WebSocket updates, charts, news, and optional AI market insight. |
+| [ai-context-pack](https://github.com/llljjjwww333/ai-context-pack) | CLI that generates Codex-ready `AGENTS.md`, AI context reports, handoff prompts, and readiness checks for repositories. |
+| [CyberInterviewer-skill](https://github.com/llljjjwww333/CyberInterviewer-skill) | OpenClaw / ClawHub skill that reads resumes and repositories to create realistic technical interview pressure tests. |
+| [ZPblog](https://github.com/llljjjwww333/ZPblog) | Multi-agent content curation system built with FastAPI, React, Vite, Docker, and Render-oriented deployment. |
+| [weakly-supervised-crypto-risk-state-learning](https://github.com/llljjjwww333/weakly-supervised-crypto-risk-state-learning) | Python experiments for weakly supervised crypto risk-state learning, feature engineering, and evaluation. |
+| [ZPagent](https://github.com/llljjjwww333/ZPagent) | Local agent prototype with a ChatGPT/Claude-like UI, OpenAI-compatible model config, and basic tool calling. |
 
 ## Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,rust,git,githubactions,vscode,powershell&theme=dark" alt="TypeScript, Node.js, Python, Rust, Git, GitHub Actions, VS Code, PowerShell" />
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,python,rust,react,vite,fastapi,redis,docker,git,githubactions,powershell&theme=dark" alt="TypeScript, Node.js, Python, Rust, React, Vite, FastAPI, Redis, Docker, Git, GitHub Actions, PowerShell" />
 </p>
 
-## Working Notes
+## Working Style
 
 ```text
-read the repo -> reduce ambiguity -> make a small change -> verify -> document the handoff
+scan the repo -> understand the workflow -> make a focused change -> verify -> document the handoff
 ```
 
-- Prefer focused tools over vague platforms.
-- Keep setup and verification commands visible.
-- Treat README, tests, and CLI output as part of the product.
+- Prefer useful tools and demos over vague platform ideas.
+- Keep setup, testing, and validation commands visible.
 - Use AI to move faster, but keep the final change reviewable.
+- Treat README, examples, screenshots, and release checks as part of the product.
 
 ## GitHub Snapshot
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=llljjjwww333&theme=github_dark" alt="GitHub profile summary" width="100%" />
-</p>
 
 <p align="center">
   <img height="165" src="https://github-stats-extended.vercel.app/api?username=llljjjwww333&show_icons=true&hide_title=true&hide_border=true&theme=github_dark&rank_icon=github" alt="GitHub stats" />
   <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=llljjjwww333&layout=compact&hide_border=true&theme=github_dark" alt="Top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=llljjjwww333&theme=github-compact&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
-</p>
-
-## Currently Interested In
-
-- Making repositories easier for Codex and AI coding agents to understand.
-- Turning repeatable debugging and validation habits into small CLI tools.
-- Improving open-source handoff quality: issue notes, patch links, tests, docs.
-- Building useful utilities without unnecessary product bloat.
-
 ## Contact
 
 - GitHub: [@llljjjwww333](https://github.com/llljjjwww333)
-- Project: [ai-context-pack](https://github.com/llljjjwww333/ai-context-pack)
+- Main project: [ai-context-pack](https://github.com/llljjjwww333/ai-context-pack)
