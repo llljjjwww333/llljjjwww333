@@ -1,0 +1,31 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">llljjjwww333 GitHub profile</title>
+  <desc id="desc">A calm developer profile banner for AI tooling and repository automation.</desc>
+  <rect width="1200" height="360" rx="28" fill="#0B1020"/>
+  <rect x="30" y="30" width="1140" height="300" rx="22" fill="#111827" stroke="#263244"/>
+  <circle cx="78" cy="74" r="8" fill="#EF4444"/>
+  <circle cx="106" cy="74" r="8" fill="#F59E0B"/>
+  <circle cx="134" cy="74" r="8" fill="#10B981"/>
+  <text x="74" y="142" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">llljjjwww333</text>
+  <text x="76" y="190" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">AI tooling | Codex workflows | practical developer automation</text>
+  <g transform="translate(76 232)">
+    <rect width="210" height="48" rx="10" fill="#0F766E"/>
+    <text x="22" y="31" fill="#ECFDF5" font-family="Consolas, Menlo, monospace" font-size="17" font-weight="700">context first</text>
+  </g>
+  <g transform="translate(304 232)">
+    <rect width="188" height="48" rx="10" fill="#1D4ED8"/>
+    <text x="22" y="31" fill="#EFF6FF" font-family="Consolas, Menlo, monospace" font-size="17" font-weight="700">verify always</text>
+  </g>
+  <g transform="translate(510 232)">
+    <rect width="178" height="48" rx="10" fill="#334155"/>
+    <text x="22" y="31" fill="#E2E8F0" font-family="Consolas, Menlo, monospace" font-size="17" font-weight="700">ship small</text>
+  </g>
+  <g transform="translate(760 76)">
+    <rect width="324" height="188" rx="16" fill="#0F172A" stroke="#334155"/>
+    <text x="24" y="44" fill="#22C55E" font-family="Consolas, Menlo, monospace" font-size="17">$ ai-context-pack doctor</text>
+    <text x="24" y="82" fill="#E2E8F0" font-family="Consolas, Menlo, monospace" font-size="16">readiness: ready</text>
+    <text x="24" y="116" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="15">AGENTS.md   pass</text>
+    <text x="24" y="146" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="15">tests       pass</text>
+    <text x="24" y="176" fill="#94A3B8" font-family="Consolas, Menlo, monospace" font-size="15">handoff     clean</text>
+  </g>
+</svg>
