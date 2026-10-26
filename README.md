@@ -3,7 +3,7 @@
 # llljjjwww333
 
 **AI agents · financial products · developer tooling**<br>
-关注 AI Agent、金融科技、开发者工具和可落地的全栈产品原型。
+关注 AI Agent、深度学习、开发者工具和可落地的全栈产品原型。
 
 <p>
   <a href="https://github.com/llljjjwww333"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-llljjjwww333-111827?style=flat-square&logo=github"></a>
